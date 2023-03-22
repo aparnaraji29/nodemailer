@@ -1,0 +1,15 @@
+{
+  "name": "assignment4",
+  "version": "1.0.0",
+  "description": "nodemailer to send mail",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aparna",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemailer": "^6.9.1"
+  }
+}
